@@ -2,7 +2,7 @@
     background-image: url('../images/banner/banner1.png');
     background-repeat: no-repeat;
     background-size: 100%;
-    height: 1600px;
+    height: 808px;
     padding-top: 50px;
     
     
@@ -13,6 +13,7 @@
     padding-top: 150px;
     padding-right: 176px;
     padding-left: 866px;
+    padding-bottom: 5px;
 }
 .assignment-div-h1{
     width: 866;
@@ -26,4 +27,24 @@
     color: white;
     padding: 15px 15px;
     font-weight: bold;
+}
+.section-one{
+    display: flex;
+    padding-top: 0px;
+    gap: 50px;
+    
+   
+}
+.section-image{
+    padding-left: 150px;
+}
+.section-one-description{
+    padding-right: 150px;
+    padding-top: 200px;
+}
+.section-one-h1{
+    font-size: 40px;
+}
+.section-one-paragraph{
+    padding-left: 15px;
 }
