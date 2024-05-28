@@ -1,0 +1,29 @@
+.assignment-head{
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1600px;
+    padding-top: 50px;
+    
+    
+}
+.assignment-div{
+    text-align: right;
+    position:absolute;
+    padding-top: 150px;
+    padding-right: 176px;
+    padding-left: 866px;
+}
+.assignment-div-h1{
+    width: 866;
+    height: 178;
+    text-align: right;
+}
+.assignment-button{
+    background-color: #F15B22;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 15px;
+    font-weight: bold;
+}
