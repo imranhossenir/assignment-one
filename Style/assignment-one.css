@@ -28,6 +28,7 @@
     padding: 15px 15px;
     font-weight: bold;
 }
+/* Section One */
 .section-one{
     display: flex;
     padding-top: 0px;
@@ -47,4 +48,36 @@
 }
 .section-one-paragraph{
     padding-left: 15px;
+}
+/* Section two */
+.section-two{
+    text-align: center;
+    width: 1142px;
+    height: 300;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section-two-h2{
+    font-size: 50px;
+    font-weight: 600;
+}
+.section-two-display{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+    padding-top: 75px;
+}
+
+.section-two-h3{
+    font-size: 30px;
+    
+}
+.section-two-p{
+    font-size: medium;
+    color: gray;
+    font-weight: 600;
+    padding-top: 0px;
+    
 }
