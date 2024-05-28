@@ -110,3 +110,34 @@
     border-radius: 5px;
 
 }
+footer{
+    background-color: rgb(17, 16, 16);
+}
+.footer-section{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-align: center;
+}
+.footer-section-content{
+    padding-left: 200px;
+    text-align: left;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+form{
+    
+    
+}
+input{
+    padding: 15px 20px;
+    border-radius: 5px;
+    border:1px solid white;
+    background-color: black;
+}
+.footer-icon{
+    text-align: left;
+    display: flex;
+    gap: 15px;
+}
