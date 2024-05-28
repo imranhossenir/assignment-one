@@ -78,6 +78,35 @@
     font-size: medium;
     color: gray;
     font-weight: 600;
-    padding-top: 0px;
     
+    
+}
+
+.section-three{
+   background:url('../images/watch.png');
+
+   background-repeat: no-repeat;
+   height: 300px;
+   padding-bottom: 50px;
+   background-position: center;
+   
+
+}
+.section-three-description{
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.section-three-h1{
+    font-size:30px;
+    font-weight: 800;
+    color: white;
+}
+.section-three-button{
+    font-size: 15px;
+    padding: 10px 15px;
+    color:rgb(245, 63, 8);
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+
 }
